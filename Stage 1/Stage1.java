@@ -7,6 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+
 public class Stage1 {
     public static void main(String[] args) throws IOException{
         /*if(args.length == 0){
